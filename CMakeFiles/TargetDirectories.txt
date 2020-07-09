@@ -1,0 +1,3 @@
+/home/jetson/JetsonNano_Recognition/CMakeFiles/rebuild_cache.dir
+/home/jetson/JetsonNano_Recognition/CMakeFiles/JetsonNano_Recognition.dir
+/home/jetson/JetsonNano_Recognition/CMakeFiles/edit_cache.dir
